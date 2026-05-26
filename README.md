@@ -24,7 +24,7 @@ I approach technology from first principles. I'd rather read the error carefully
 
 ---
 
-## 📚 Courses Completed
+## Courses Completed
 
 | Course | Description | Grade |
 |---|---|---|
