@@ -38,7 +38,7 @@ I approach technology from first principles. I'd rather read the error carefully
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Category | Details |
 |---|---|
@@ -65,16 +65,16 @@ Labs, coursework projects, and personal practice as I build skills publicly. Foc
 
 ---
 
-## 📌 Currently Working On
+##  Currently Working On
 
 - **Advanced Linux** — final 3 weeks · counts toward 2nd certificate
 - **Cybersecurity Foundations** — final 3 weeks · counts toward 3rd certificate · Cyber Kill Chain, SOC workflows, threat detection, blue team fundamentals
-- After this block: 1 course left to finish the **2nd certificate** 🎯
+- After this block: 1 course left to finish the **2nd certificate**
 - Python scripting for automation
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 Connect if you're studying IT or cybersecurity, working in the field, or just want to talk through a problem.
 
