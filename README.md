@@ -6,7 +6,7 @@ IT student at Ensign College (BYU Pathway) · Building toward an IT Bachelor's d
 
 ## About Me
 
-I'm working through a 3-certificate IT Bachelor's degree program at **Ensign College**, connected through BYU Pathway Worldwide. My first certificate — **Technical Support Engineer** — is already earned and in hand (February 2026). I'm currently about 80% through my second certificate, with the third ahead.
+I'm working through a 3-certificate IT Bachelor's degree program at **Ensign College**, connected through BYU Pathway Worldwide. My first certificate - **Technical Support Engineer** - is already earned and in hand (February 2026). I'm currently about 80% through my second certificate, with the third ahead.
 
 I approach technology from first principles. I'd rather read the error carefully than skip to the fix. Understanding the *why* matters more to me than just knowing the *how*.
 
@@ -16,8 +16,8 @@ I approach technology from first principles. I'd rather read the error carefully
 
 | Status | Certificate / Program |
 |---|---|
-| ✅ Earned (Feb 2026) | Technical Support Engineer — Ensign College |
-| 🔄 1 course remaining (after this block) | 2nd Certificate — Ensign College |
+| ✅ Earned (Feb 2026) | Technical Support Engineer  Ensign College |
+| 🔄 1 course remaining (after this block) | 2nd Certificate - Ensign College |
 | 🔄 Started (1 course in progress) | 3rd Certificate — Ensign College |
 
 **Cumulative GPA:** 3.27 (Ensign College)
@@ -67,8 +67,8 @@ Labs, coursework projects, and personal practice as I build skills publicly. Foc
 
 ##  Currently Working On
 
-- **Advanced Linux** — final 3 weeks · counts toward 2nd certificate
-- **Cybersecurity Foundations** — final 3 weeks · counts toward 3rd certificate · Cyber Kill Chain, SOC workflows, threat detection, blue team fundamentals
+- **Advanced Linux** - final 3 weeks · counts toward 2nd certificate
+- **Cybersecurity Foundations** - final 3 weeks · counts toward 3rd certificate · Cyber Kill Chain, SOC workflows, threat detection, blue team fundamentals
 - After this block: 1 course left to finish the **2nd certificate**
 - Python scripting for automation
 
@@ -78,5 +78,5 @@ Labs, coursework projects, and personal practice as I build skills publicly. Foc
 
 Connect if you're studying IT or cybersecurity, working in the field, or just want to talk through a problem.
 
-> *"The quieter you become, the more you can hear." — Ram Dass*
+> *"The quieter you become, the more you can hear." - Ram Dass*
 > *(Also solid advice for packet sniffing.)*
