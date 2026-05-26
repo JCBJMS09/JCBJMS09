@@ -12,7 +12,7 @@ I approach technology from first principles. I'd rather read the error carefully
 
 ---
 
-##  Academic Progress
+## Academic Progress
 
 | Status | Certificate / Program |
 |---|---|
@@ -53,7 +53,7 @@ I approach technology from first principles. I'd rather read the error carefully
 
 ---
 
-## 📂 What You'll Find Here
+## What You'll Find Here
 
 Labs, coursework projects, and personal practice as I build skills publicly. Focus areas:
 
@@ -65,7 +65,7 @@ Labs, coursework projects, and personal practice as I build skills publicly. Foc
 
 ---
 
-##  Currently Working On
+## Currently Working On
 
 - **Advanced Linux** - final 3 weeks · counts toward 2nd certificate
 - **Cybersecurity Foundations** - final 3 weeks · counts toward 3rd certificate · Cyber Kill Chain, SOC workflows, threat detection, blue team fundamentals
