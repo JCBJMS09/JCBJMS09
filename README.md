@@ -1,4 +1,4 @@
-# Hi, I'm Tanatswa 👋
+# Hi, I'm Tanatswa
 
 IT student at Ensign College (BYU Pathway) · Building toward an IT Bachelor's degree · Zimbabwe 🇿🇼
 
@@ -12,7 +12,7 @@ I approach technology from first principles. I'd rather read the error carefully
 
 ---
 
-## 🎓 Academic Progress
+##  Academic Progress
 
 | Status | Certificate / Program |
 |---|---|
